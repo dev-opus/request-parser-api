@@ -6,6 +6,10 @@
   "author": "victor orlunda <vicorlunda@gmail.com>",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1"
