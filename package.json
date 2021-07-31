@@ -1,0 +1,9 @@
+{
+  "name": "request-parser-api",
+  "version": "1.0.0",
+  "description": "sends a payload containing user's ip-address, user-agent and language preference",
+  "main": "server.js",
+  "author": "victor orlunda <vicorlunda@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
